@@ -1,0 +1,3 @@
+IGUI_FR = {
+	IGUI_MiniHealth_UpdateNotes = "<CENTRE> <SIZE:medium> Correctif du mini panneau de santé <LINE> <LINE> <LEFT> <SIZE:small> - Correction des parties du corps bleues causées par l'addon Excrementum."
+}
